@@ -1,0 +1,32 @@
+.navbar{
+    background-color: #B31E30;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header{
+    padding-left: 50px;
+}
+.brand{
+    padding-left: 50px;
+}
+
+@media only screen and (max-width: 660px) {
+    .header{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding-left: 0px;
+    }
+    .navbar{
+        justify-content: space-between;
+    }
+    .brand{
+        padding-left: 0px;
+    }
+    .me-auto{
+        flex-direction: column;
+    }
+  }
+  

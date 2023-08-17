@@ -1,0 +1,1355 @@
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+E:\Wells-Project\Loan-Management-System\Backend1\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+E:\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Http.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Project2\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Cors.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Http.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Http.Cors.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\MessagePack.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Build.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Common.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\Loan-Management-System\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\MessagePack.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Cors.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Http.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Http.Cors.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Build.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Common.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+E:\New folder\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\MessagePack.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Http.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Common.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Project3\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\MessagePack.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Cors.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Http.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Build.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Common.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\P1\LoanManagement\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
