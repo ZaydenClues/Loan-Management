@@ -20,7 +20,7 @@ namespace WebApplication1
 
             //Dependency Injection DbContext Class
             builder.Services.AddDbContext<APIDbContext>(options =>
-            options.UseSqlServer(@"server=WINDOWS-BVQNF6J;database=loandata;trusted_connection=true;TrustServerCertificate=True;"));
+            options.UseSqlServer(@"server=LAPTOP-F4QS9EU6\SQLEXPRESS;database=loandata;trusted_connection=true;TrustServerCertificate=True;"));
            
             builder.Services.AddScoped<IEmployeeService, EmployeeService>();
             

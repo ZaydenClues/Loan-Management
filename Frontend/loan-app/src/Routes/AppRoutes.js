@@ -16,6 +16,7 @@ import ItemTable from "../components/Admin/ItemTable/ItemTable";
 import ViewEmployeesData from "../components/Admin/CustomerData/ViewEmployeesData";
 import LoanCardTable from "../components/Admin/LoanCard/LoanCardTable";
 import ViewPurchased from "../components/ViewPurchased/ViewPurchased";
+import ViewLoan from "../components/ViewLoan/ViewLoan";
 
 export function AppRoutes() {
   return (
@@ -46,6 +47,16 @@ export function AppRoutes() {
           element={
             <ProtectedRoute>
               <ViewPurchased />
+            </ProtectedRoute>
+          }
+        />
+
+        
+        <Route 
+          path="/viewloans"
+          element={
+            <ProtectedRoute>
+              <ViewLoan />
             </ProtectedRoute>
           }
         />
