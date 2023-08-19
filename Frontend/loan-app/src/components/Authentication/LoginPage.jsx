@@ -11,7 +11,7 @@ const LoginPage = () => {
   const { userData, setUserData } = useUserContext();
 
   useEffect(() => {
-    console.log(userData);
+    console.log(userData.data);
     if (userData.exists === true) {
       if (userData.user?.id === "admin") {
         navigate("/admin/dashboard");
@@ -116,7 +116,7 @@ const LoginPage = () => {
                 </div>
 
                 <br />
-                <a href="/signup">Don't have an account? Sign up here!</a>
+                <a href="/signup">Forgot Password?</a>
               </div>
             </form>
           </div>

@@ -12,8 +12,8 @@ using WebApplication1.Model;
 namespace WebApplication1.Migrations
 {
     [DbContext(typeof(APIDbContext))]
-    [Migration("20230816170406_F2")]
-    partial class F2
+    [Migration("20230819173846_saran")]
+    partial class saran
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

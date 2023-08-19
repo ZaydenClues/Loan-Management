@@ -12,8 +12,8 @@ using WebApplication1.Model;
 namespace WebApplication1.Migrations
 {
     [DbContext(typeof(APIDbContext))]
-    [Migration("20230816162311_F1")]
-    partial class F1
+    [Migration("20230819174407_initial")]
+    partial class initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -89,17 +89,23 @@ namespace WebApplication1.Migrations
 
             modelBuilder.Entity("WebApplication1.Model.Employee_Card_Detail", b =>
                 {
-                    b.Property<string>("employee_id")
+                    b.Property<string>("employee_card_id")
                         .HasColumnType("varchar(6)");
 
                     b.Property<DateTime>("card_issue_date")
                         .HasColumnType("Date");
 
+                    b.Property<string>("employee_id")
+                        .IsRequired()
+                        .HasColumnType("varchar(6)");
+
                     b.Property<string>("loan_id")
                         .IsRequired()
                         .HasColumnType("varchar(6)");
 
-                    b.HasKey("employee_id");
+                    b.HasKey("employee_card_id");
+
+                    b.HasIndex("employee_id");
 
                     b.HasIndex("loan_id");
 

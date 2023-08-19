@@ -4,21 +4,22 @@ import styles from "./ApplyLoan.module.css";
 import { Form, Button } from "react-bootstrap";
 import { useState, useEffect } from "react";
 import { useUserContext } from "../../Context/UserContext";
-import { getAllItems } from "../../Service/Admin/item";
+import { getitemdetails, applyLoan } from "../../Service/User/applyloan";
 
 const ApplyLoan = () => {
   const { userData, setUserData } = useUserContext();
-  const item_category = ["Furniture", "Electronics", "Stationery", "Crokery"];
+  const [itemCategory, setItemCategory] = useState([]);
   const [items, setItems] = useState([]);
+
   const [tempItems1, setTempItems1] = useState([]);
   const [tempItems2, setTempItems2] = useState([]);
   const [tempItems3, setTempItems3] = useState([]);
   const [finalItem, setFinalItem] = useState([]);
 
   const [form, setForm] = useState({
-    item_id: "",
     employee_id: "",
-    loan_type: "",
+    item_category: "",
+    item_id: ""
   });
 
   const handleCategoryDropdown = (event) => {
@@ -45,10 +46,6 @@ const ApplyLoan = () => {
 
   const handleValuationDropdown = (event) => {
     console.log(event.target.value);
-    // console.log("tempItems3", tempItems3);
-    // console.log(
-    //   tempItems3.filter((item) => item.item_valuation == event.target.value)
-    // );
     setFinalItem(
       tempItems3.filter((item) => item.item_valuation == event.target.value)
     );
@@ -60,25 +57,29 @@ const ApplyLoan = () => {
     event.preventDefault();
     console.log("finalItem", finalItem);
 
-    form.item_id = finalItem[0].item_id;
     form.employee_id = userData.user.employee_id;
-    form.loan_type = finalItem[0].item_category;
+    form.item_category = finalItem[0].item_category;
+    form.item_id = finalItem[0].item_id;
     console.log("form", form);
 
-    // applyLoan(form).then((res) => {
-    //   if (res.success) {
-    //     console.log("res", res);
-    //   }
-    // });
+    applyLoan(form).then((res) => {
+      console.log(res);
+      if (res.success) {
+        alert("Loan Applied Successfully");
+      }
+      window.location.href = "/dashboard";
+    });
   };
 
   useEffect(() => {
-    getAllItems().then((res) => {
-      if (res.success) {
-        setItems(res.data);
-      }
-    });
-  }, []);
+    (async() => {
+      const items = await getitemdetails();
+      setItems(items.data);
+      const itemCategory = [...new Set(items.data.map((item) => item.item_category))];
+      setItemCategory(itemCategory);
+    })();
+    
+  },[]);
 
   return (
     <div>
@@ -125,7 +126,7 @@ const ApplyLoan = () => {
                   onChange={handleCategoryDropdown}
                 >
                   <option>Select Item Category</option>
-                  {item_category.map((category, index) => (
+                  {itemCategory.map((category, index) => (
                     <option key={index} value={category}>
                       {category}
                     </option>
@@ -161,14 +162,8 @@ const ApplyLoan = () => {
               </select>
             </Form.Group>
 
-            {/* <select aria-label="Item Make">
-              <option>Select Item Make</option>
-              <option value="1">Wooden</option>
-              <option value="2">Steel</option>
-              <option value="3">Plastic</option>
-            </select> */}
           </div>
-          <Button variant="success" type="submit">
+          <Button variant="success" onClick={handleApplyLoan}>
             Apply Loan
           </Button>
         </form>

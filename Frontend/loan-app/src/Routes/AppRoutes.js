@@ -15,6 +15,7 @@ import ProtectedAdminRoute from "../components/ProtectedAdminRoutes";
 import ItemTable from "../components/Admin/ItemTable/ItemTable";
 import ViewEmployeesData from "../components/Admin/CustomerData/ViewEmployeesData";
 import LoanCardTable from "../components/Admin/LoanCard/LoanCardTable";
+import ViewPurchased from "../components/ViewPurchased/ViewPurchased";
 
 export function AppRoutes() {
   return (
@@ -39,6 +40,16 @@ export function AppRoutes() {
             </ProtectedRoute>
           }
         />
+
+        <Route 
+          path="/viewitems"
+          element={
+            <ProtectedRoute>
+              <ViewPurchased />
+            </ProtectedRoute>
+          }
+        />
+
         <Route
           path="/signup"
           element={

@@ -51,7 +51,7 @@ namespace WebApplication1.Controllers
 
 
         [HttpPost("login")]
-        public async Task<IActionResult> Login(LoginRequest request)
+        public async Task<IActionResult> Login(EmployeeCreds request)
         {
             var admin = await _context.Admin.FirstOrDefaultAsync(u => u.id == request.id);
             if (admin == null)

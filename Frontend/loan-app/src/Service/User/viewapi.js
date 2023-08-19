@@ -2,13 +2,10 @@ import axios from "axios";
 
 const URL = "https://localhost:5068/api";
 
-export async function login(data) {
+export async function getitemspurchased(id) {
   try {
-    const res = await axios.post(`${URL}/Admin/login`, {
-      ...data,
-    });
+    const res = await axios.get(`${URL}/UserAction/GetItemsPurchased/${id}`);
     console.log(res.data);
-
     return { success: true, data: res.data };
   } catch (error) {
     if (error.response) {
@@ -21,3 +18,4 @@ export async function login(data) {
     }
   }
 }
+

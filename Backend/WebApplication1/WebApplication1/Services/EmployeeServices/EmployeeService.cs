@@ -22,7 +22,7 @@ namespace WebApplication1.Services.EmployeeServices
             return await _context.Employees.ToListAsync();
         }
 
-        public async Task<IActionResult> Login(LoginRequest request)
+        public async Task<IActionResult> Login(EmployeeCreds request)
         {
             var employee = await _context.Employees.FirstOrDefaultAsync(u => u.employee_id == request.id);
             if (employee == null)

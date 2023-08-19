@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace WebApplication1.Migrations
 {
     /// <inheritdoc />
-    public partial class F1 : Migration
+    public partial class saran : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -104,13 +104,14 @@ namespace WebApplication1.Migrations
                 name: "Employee_Card_Details",
                 columns: table => new
                 {
-                    employee_id = table.Column<string>(type: "varchar(6)", nullable: false),
+                    employee_card_id = table.Column<string>(type: "varchar(6)", nullable: false),
                     loan_id = table.Column<string>(type: "varchar(6)", nullable: false),
+                    employee_id = table.Column<string>(type: "varchar(6)", nullable: false),
                     card_issue_date = table.Column<DateTime>(type: "Date", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Employee_Card_Details", x => x.employee_id);
+                    table.PrimaryKey("PK_Employee_Card_Details", x => x.employee_card_id);
                     table.ForeignKey(
                         name: "FK_Employee_Card_Details_Employees_employee_id",
                         column: x => x.employee_id,
@@ -124,6 +125,11 @@ namespace WebApplication1.Migrations
                         principalColumn: "loan_id",
                         onDelete: ReferentialAction.Cascade);
                 });
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Employee_Card_Details_employee_id",
+                table: "Employee_Card_Details",
+                column: "employee_id");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Employee_Card_Details_loan_id",

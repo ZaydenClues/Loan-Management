@@ -2,7 +2,7 @@
 
 namespace WebApplication1.Model
 {
-    public class LoginRequest
+    public class EmployeeCreds
     {
 
         [Required]

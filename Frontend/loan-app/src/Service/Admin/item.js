@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const URL = "http://localhost:5068/api";
+const URL = "https://localhost:5068/api";
 
 async function getAllItems() {
   try {

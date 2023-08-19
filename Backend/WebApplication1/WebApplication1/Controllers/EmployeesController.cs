@@ -70,8 +70,6 @@ namespace loanApplication.Controllers
                 return BadRequest();
             }
 
-
-
             _context.Entry(employee).State = EntityState.Modified;
 
             try
@@ -93,8 +91,46 @@ namespace loanApplication.Controllers
             return NoContent();
         }
 
+        [HttpPut("updatePassword")]
+        public async Task<IActionResult> UpdatePassword(EmployeeCreds employeeCreds)
+        {
+            if(_context.Employees == null)
+            {
+                return NotFound();
+            }
+            var employee = _context.Employees.Find(employeeCreds.id);
+            if (employee == null)
+            {
+                return NotFound();
+            }
+
+            CreatePasswordHash(employeeCreds.password, out byte[] passwordHash, out byte[] passwordSalt);
+
+            employee.PasswordHash = passwordHash;
+            employee.PasswordSalt = passwordSalt;
+
+            _context.Entry(employee).State = EntityState.Modified;
+
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch(DbUpdateConcurrencyException)
+            {
+                if (!EmployeeExists(employeeCreds.id))
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
+            }
+            return NoContent();
+        }
+
         [HttpPost("login")]
-        public async Task<IActionResult> Login(LoginRequest request)
+        public async Task<IActionResult> Login(EmployeeCreds request)
         {
             try
             {
