@@ -19,3 +19,19 @@ export async function getitemspurchased(id) {
   }
 }
 
+export async function getloanspurchased(id) {
+  try {
+    const res = await axios.get(`${URL}/UserAction/GetLoansPurchased/${id}`);
+    console.log(res.data);
+    return { success: true, data: res.data };
+  } catch (error) {
+    if (error.response) {
+      return { success: false, error: error.response.data };
+    } else {
+      return {
+        success: false,
+        error: "Error occured while sending the request",
+      };
+    }
+  }
+}

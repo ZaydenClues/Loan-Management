@@ -33,5 +33,24 @@ namespace WebApplication1.Controllers
             return itemsPurchased;
         }
 
+        [HttpGet("GetLoansPurchased/{id}")]
+        public async Task<ActionResult<List<LoansPurchased>>> GetLoansPurchased(string id)
+        {
+            var loansPurchased = _context.Employee_Card_Details.Where(e => e.Employee.employee_id == id).Join(
+                _context.Loan_Card_Master, card => card.loan_Card_Master.loan_id, loan => loan.loan_id,
+                (card , loan) => new LoansPurchased()
+                {
+                    card_id = card.employee_card_id,
+                    loan_id = loan.loan_id,
+                    duration = loan.duration_in_years,
+                    card_issue_date = card.card_issue_date.ToShortDateString(),
+                    loan_type=loan.loan_type
+                   
+
+                }
+                ).ToList();
+            return loansPurchased;
+        }
+
     }
 }
