@@ -9,6 +9,8 @@ import "react-datepicker/dist/react-datepicker.css";
 import { signup } from "../../../Service/User/signup";
 import { useNavigate } from "react-router-dom";
 import { addLoanData } from "../../../Service/Admin/loan";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 function LoanCard({ open, handleClose }) {
     
@@ -41,14 +43,14 @@ function LoanCard({ open, handleClose }) {
     addLoanData(form)
       .then((res) => {
         if (res.success) {
-          window.alert("Loan Created Successfully!!");
+          toast.success("Loan Data Added Successfully");
           return true;
         } else {
-          window.alert(res.error);
+          toast.error("Error Adding Loan Data");
           return false;
         }
       })
-      .then((res) => window.location.reload());
+      .then((res) => setTimeout(() => window.location.reload(), 2000));
     console.log(form);
   };
   return (
@@ -129,6 +131,7 @@ function LoanCard({ open, handleClose }) {
             </Button>
           </div>
         </div>
+        <ToastContainer />
       </div>
     </Dialog>
   );

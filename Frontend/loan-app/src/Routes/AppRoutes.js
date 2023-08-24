@@ -17,6 +17,8 @@ import ViewEmployeesData from "../components/Admin/CustomerData/ViewEmployeesDat
 import LoanCardTable from "../components/Admin/LoanCard/LoanCardTable";
 import ViewPurchased from "../components/ViewPurchased/ViewPurchased";
 import ViewLoan from "../components/ViewLoan/ViewLoan";
+import UserRegister from "../components/UserRegister/UserRegister";
+import Page404 from "../components/404page/404page";
 
 export function AppRoutes() {
   return (
@@ -71,6 +73,15 @@ export function AppRoutes() {
         />
 
         <Route
+        path="/register"
+        element={
+          //<ProtectedRoute>
+          <UserRegister />
+          //</ProtectedRoute>
+        }
+      />
+
+        <Route
           exact
           path="/admin/dashboard"
           element={
@@ -109,7 +120,13 @@ export function AppRoutes() {
           }
         />
 
-        <Route path="*" element={<Navigate to="/login" />} />
+        <Route path="/page404"
+        element={
+          <Page404 />
+        }
+        />
+
+        <Route path="*" element={<Navigate to="/page404" />} />
       </Routes>
     </Router>
   );

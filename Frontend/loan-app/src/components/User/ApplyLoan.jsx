@@ -5,6 +5,8 @@ import { Form, Button } from "react-bootstrap";
 import { useState, useEffect } from "react";
 import { useUserContext } from "../../Context/UserContext";
 import { getitemdetails, applyLoan } from "../../Service/User/applyloan";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const ApplyLoan = () => {
   const { userData, setUserData } = useUserContext();
@@ -57,17 +59,29 @@ const ApplyLoan = () => {
     event.preventDefault();
     console.log("finalItem", finalItem);
 
+    if(finalItem.length === 0){
+      toast.error("Please select all the fields");
+      return;
+    }
+
     form.employee_id = userData.user.employee_id;
     form.item_category = finalItem[0].item_category;
     form.item_id = finalItem[0].item_id;
     console.log("form", form);
 
+    
+
+
+
     applyLoan(form).then((res) => {
       console.log(res);
       if (res.success) {
-        alert("Loan Applied Successfully");
+        toast.success("Loan Applied Successfully");
+        window.location.href = "/dashboard";
+      } else {
+        toast.error("Failed to apply loan");
       }
-      window.location.href = "/dashboard";
+      
     });
   };
 
@@ -167,6 +181,7 @@ const ApplyLoan = () => {
             Apply Loan
           </Button>
         </form>
+        <ToastContainer />
       </div>
     </div>
   );

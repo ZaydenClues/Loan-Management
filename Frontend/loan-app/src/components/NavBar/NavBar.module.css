@@ -8,3 +8,19 @@
 .header{
     padding-left: 50px;
 }
+
+.user{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h4{
+    color:white;
+    font-size: 12px;
+}

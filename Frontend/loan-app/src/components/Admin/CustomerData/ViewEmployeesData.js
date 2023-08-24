@@ -7,9 +7,12 @@ import {
   getAllEmployeesData,
   deleteEmployee,
 } from "../../../Service/Admin/employee";
-import { Form, Button } from "react-bootstrap";
+import { Form, Button, Toast } from "react-bootstrap";
 import AddUser from "../AddUser/AddUser";
 import AlertDialog from "./AlertDialog";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+
 function ViewCustomersData() {
   const [cust_Data, setCust_Data] = useState([]);
   const [edit, setEdit] = useState(-1);
@@ -74,12 +77,15 @@ function ViewCustomersData() {
     editEmployeeData(form, form.employee_id)
       .then((res) => {
         if (res.success) {
-          window.alert("Item Edited Successfully!!");
+          toast.success("Item Edited Successfully!!");
         } else {
-          window.alert(res.error);
+          toast.error(res.error);
         }
       })
-      .then(() => window.location.reload());
+      .then(() => setTimeout(() => {
+        window.location.reload();
+      }
+      , 2000));
 
     setEdit(-1);
   };
@@ -88,12 +94,15 @@ function ViewCustomersData() {
     deleteEmployee(employee_id)
       .then((res) => {
         if (res.success) {
-          window.alert("Employee Deleted Successfully!!");
+          toast.success("Item Deleted Successfully!!");
         } else {
-          window.alert(res.error);
+          toast.error(res.error);
         }
       })
-      .then(() => window.location.reload());
+      .then(() => setTimeout(() => {
+        window.location.reload();
+      }
+      , 2000));
   };
 
   const handleDiscard = () => {
@@ -104,7 +113,7 @@ function ViewCustomersData() {
       if (res.success) {
         setCust_Data(res.data);
       } else {
-        window.alert(res.error);
+        toast.error(res.error);
       }
     });
   }, []);
@@ -176,7 +185,7 @@ function ViewCustomersData() {
                       type="text"
                       placeholder={cust_Data.designation}
                       name="designation"
-                      readOnly={edit === index ? false : true}
+                      readOnly={true}
                     />
                   )}
                 </Form.Group>
@@ -310,6 +319,7 @@ function ViewCustomersData() {
         handleClose={handleAlertDeleteClose}
         handleDelete={handleDelete}
       /> */}
+      <ToastContainer />
     </div>
   );
 }

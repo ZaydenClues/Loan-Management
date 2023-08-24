@@ -30,7 +30,7 @@ namespace WebApplication1.Controllers
             {
                 return NotFound();
             }
-            return _context.Items.ToList();
+            return _context.Items.Where(i => i.item_status == "Y").ToList();
         }
 
         [HttpGet("GetLoanCardData")]

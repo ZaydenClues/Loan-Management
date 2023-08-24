@@ -9,6 +9,8 @@ import "react-datepicker/dist/react-datepicker.css";
 import { signup } from "../../../Service/User/signup";
 import { useNavigate } from "react-router-dom";
 import { addItem } from "../../../Service/Admin/item";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 function AddItem({ open, handleClose }) {
   const navigate = useNavigate();
@@ -53,14 +55,14 @@ function AddItem({ open, handleClose }) {
     addItem(form)
       .then((res) => {
         if (res.success) {
-          window.alert("Item Added Successfully!!");
+          toast.success("Item Added Successfully");
           return true;
         } else {
-          window.alert(res.error);
+          toast.error("Item Addition Failed");
           return false;
         }
       })
-      .then((res) => (res ? window.location.reload() : console.log("error")));
+      .then((res) => (res ? setTimeout(()=>window.location.reload(), 2000) : console.log("error")));
     console.log(form);
   };
   return (
@@ -182,6 +184,7 @@ function AddItem({ open, handleClose }) {
             </Button>
           </div>
         </div>
+        <ToastContainer />
       </div>
     </Dialog>
   );

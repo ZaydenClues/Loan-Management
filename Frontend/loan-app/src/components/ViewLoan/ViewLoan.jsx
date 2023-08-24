@@ -37,6 +37,12 @@ const ViewLoan = () => {
     useEffect(() => {
         getloanspurchased(userData.user.employee_id).then((res) => {
             console.log(res.data);
+            // const data = res.data.filter((loans) => {
+            //   var returnDate = new Date(loans.card_issue_date);
+            //   const newDate = addYears(returnDate, loans.duration);
+            //   return newDate > new Date();
+            // }
+            // );
             setLoansData(res.data);
         });
     }, []);

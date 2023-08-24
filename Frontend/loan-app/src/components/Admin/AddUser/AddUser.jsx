@@ -8,6 +8,8 @@ import { Form, Button } from "react-bootstrap";
 import "react-datepicker/dist/react-datepicker.css";
 import { signup } from "../../../Service/User/signup";
 import { useNavigate } from "react-router-dom";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 function AddUser({ open, handleClose }) {
   const [dobDate, setdobDate] = useState(new Date());
@@ -56,16 +58,16 @@ function AddUser({ open, handleClose }) {
     form.password = form.employee_id + "123";
     form.cpassword = form.employee_id + "123";
     if (form.password !== form.cpassword) {
-      window.alert("Password and Confirm Password do not match");
+      toast.error("Password and Confirm Password do not match");
       return;
     }
     signup(form)
       .then((res) => {
         if (res.success) {
-          window.alert("Account Created Successfully!!");
+          toast.success("User Added Successfully"); 
           return true;
         } else {
-          window.alert(res.error);
+          toast.error("User Already Exists");
           return false;
         }
       })
@@ -207,6 +209,7 @@ function AddUser({ open, handleClose }) {
             </Button>
           </div>
         </div>
+        <ToastContainer />
       </div>
     </Dialog>
   );

@@ -6,6 +6,9 @@ import { useEffect, useState } from "react";
 import { Form, Button } from "react-bootstrap";
 import LoanCard from "./LoanCard";
 import { deleteLoanCard, editLoanCardData, getAllLoanCardData } from "../../../Service/Admin/loan";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+
 function LoanCardTable() {
   const [loan_Data, setLoan_Data] = useState([]);
   const [edit, setEdit] = useState(-1);
@@ -66,12 +69,12 @@ function LoanCardTable() {
     editLoanCardData(form, form.loan_id)
       .then((res) => {
         if (res.success) {
-          window.alert("Item Edited Successfully!!");
+          toast.success("Loan Card Edited Successfully");
         } else {
-          window.alert(res.error);
+          toast.error("Loan Card Edit Failed");
         }
       })
-      .then(() => window.location.reload());
+      .then(() => setTimeout(()=>window.location.reload()), 1000);
 
     setEdit(-1);
   };
@@ -80,12 +83,12 @@ function LoanCardTable() {
     deleteLoanCard(loan_id)
       .then((res) => {
         if (res.success) {
-          window.alert("Loan Card Deleted Successfully!!");
+          toast.success("Loan Card Deleted Successfully");
         } else {
-          window.alert(res.error);
+          toast.error( "Loan Card Deletion Failed");
         }
       })
-      .then(() => window.location.reload());
+      .then(() => setTimeout(()=>window.location.reload()), 1000);
   };
 
   const handleDiscard = () => {
@@ -96,7 +99,7 @@ function LoanCardTable() {
       if (res.success) {
         setLoan_Data(res.data);
       } else {
-        window.alert(res.error);
+        toast.error("Error Fetching Loan Card Data");
       }
     });
   }, []);
@@ -228,6 +231,7 @@ function LoanCardTable() {
         handleClose={handleAlertDeleteClose}
         handleDelete={handleDelete}
       /> */}
+      <ToastContainer />
     </div>
   );
 }

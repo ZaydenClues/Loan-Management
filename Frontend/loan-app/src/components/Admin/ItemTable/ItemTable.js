@@ -5,6 +5,8 @@ import { useEffect, useState } from "react";
 import { deleteItem, editItem, getAllItems } from "../../../Service/Admin/item";
 import { Form, Button } from "react-bootstrap";
 import AddItem from "./AddItem";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 function ItemTable() {
   const [items, setItems] = useState([]);
@@ -56,12 +58,12 @@ function ItemTable() {
     editItem(form, form.item_id)
       .then((res) => {
         if (res.success) {
-          window.alert("Item Edited Successfully!!");
+          toast.success("Item Edited Successfully");
         } else {
-          window.alert(res.error);
+          toast.error("Item Edit Failed");
         }
       })
-      .then(() => window.location.reload());
+      .then(() => setTimeout(()=>window.location.reload()), 1000);
 
     setEdit(-1);
   };
@@ -73,12 +75,12 @@ function ItemTable() {
     deleteItem(item_id)
       .then((res) => {
         if (res.success) {
-          window.alert("Item Deleted Successfully!!");
+          toast.success("Item Deleted Successfully");
         } else {
-          window.alert(res.error);
+          toast.error( "Item Deletion Failed");
         }
       })
-      .then(() => window.location.reload());
+      .then(() => setTimeout(()=>window.location.reload()), 1000);
   };
 
   useEffect(() => {
@@ -284,6 +286,7 @@ function ItemTable() {
         </Button>
       </div>
       <AddItem open={open} handleClose={handleClose} />
+      <ToastContainer />
     </div>
   );
 }

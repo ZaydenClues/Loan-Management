@@ -4,6 +4,7 @@ import Navbar from "react-bootstrap/Navbar";
 import styles from "./NavBar.module.css";
 import { useNavigate } from "react-router-dom";
 import { useUserContext } from "../../Context/UserContext";
+import { NavDropdown } from "react-bootstrap";
 
 function NavBar() {
   const navigate = useNavigate();
@@ -14,6 +15,9 @@ function NavBar() {
     setUserData({ exists: false, user: null });
     navigate("/login");
   };
+
+  const showUserCard = () => {
+  }
   return (
     <>
       <Navbar className={styles.navbar}>
@@ -26,13 +30,20 @@ function NavBar() {
             Loan Management User Portal
           </Navbar.Brand>
         </div>
-        <Nav className="me-auto">
+        <Nav >
+          <NavDropdown title={"Welcome " + userData.user.employee_name + "!"} >
+            <NavDropdown.Item >{"Employee ID: " + userData.user.employee_id}</NavDropdown.Item>
+            <NavDropdown.Item >{"Department: " + userData.user.department}</NavDropdown.Item>
+            <NavDropdown.Item >{"Designation: " + userData.user.designation}</NavDropdown.Item>
+          </NavDropdown>
+
           <Nav.Link href="/dashboard" style={{ color: "white" }}>
             Dashboard
           </Nav.Link>
           <Nav.Link onClick={handleLogout} style={{ color: "#FFB500" }}>
             Logout
           </Nav.Link>
+          
         </Nav>
       </Navbar>
     </>

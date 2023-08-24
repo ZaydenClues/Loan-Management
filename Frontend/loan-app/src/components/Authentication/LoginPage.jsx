@@ -6,6 +6,8 @@ import { login as AdminLogin } from "../../Service/Admin/login";
 import { login as EmployeeLogin } from "../../Service/User/login";
 import { useNavigate } from "react-router-dom";
 import { useUserContext } from "../../Context/UserContext";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const LoginPage = () => {
   const { userData, setUserData } = useUserContext();
@@ -63,12 +65,22 @@ const LoginPage = () => {
             setUserData({ exists: true, user: res.data });
             return true;
           } else {
-            alert("Invalid Username or Password");
+            
             return false;
           }
         })
-        .then((res) =>
-          res ? navigate("/dashboard") : window.location.reload()
+        .then((res) => {
+          if(res)
+            navigate("/dashboard")
+          else{
+            toast.error("Invalid Username or Password");
+            //redirect after 3 seconds
+            setTimeout(() => {
+              navigate("/register");
+            }
+            , 3000);
+          }            
+        }
         );
     }
   };
@@ -96,6 +108,9 @@ const LoginPage = () => {
                     placeholder="Enter username"
                     name="username"
                   />
+                  <Form.Control.Feedback type="invalid">
+                    Please enter a valid username.
+                  </Form.Control.Feedback>
                 </Form.Group>
                 <Form.Group controlId="password">
                   <Form.Label>Password:</Form.Label>
@@ -107,6 +122,9 @@ const LoginPage = () => {
                     placeholder="Enter password"
                     name="password"
                   />
+                  <Form.Control.Feedback type="invalid">
+                    Please enter a valid password.
+                  </Form.Control.Feedback>
                 </Form.Group>
                 <br />
                 <div className={styles.buttonContainer}>
@@ -117,9 +135,12 @@ const LoginPage = () => {
 
                 <br />
                 <a href="/signup">Forgot Password?</a>
+                
+                <a href="/register">Don't have an account?</a>
               </div>
             </form>
           </div>
+          <ToastContainer />
         </div>
       </div>
     </div>
