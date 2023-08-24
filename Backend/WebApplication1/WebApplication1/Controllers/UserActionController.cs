@@ -31,16 +31,20 @@ namespace WebApplication1.Controllers
             return itemsPurchased;
         }
 
-        private bool checkActive(DateTime issueDate, string loan_id)
+        private bool checkActive(string issueDate, int duration)
         {
-            var duration = _context.Loan_Card_Master.Where(c => c.loan_id == loan_id).ToList()[0].duration_in_years;
-            return DateTime.Now > issueDate.AddYears(duration) && duration > 0;
+          
+            var returnDate = DateTime.Parse(issueDate).AddYears(duration);
+            var res = returnDate.CompareTo(DateTime.Now);
+            if (res > 0)
+                return true;
+            return false;
         }
 
         [HttpGet("GetLoansPurchased/{id}")]
         public async Task<ActionResult<List<LoansPurchased>>> GetLoansPurchased(string id)
         {
-            var loansPurchased = _context.Employee_Card_Details.Where(e => e.Employee.employee_id == id && checkActive(e.card_issue_date,e.loan_id)).Join(
+            var loansPurchased = _context.Employee_Card_Details.Where(e => e.Employee.employee_id == id).Join(
                 _context.Loan_Card_Master, card => card.loan_Card_Master.loan_id, loan => loan.loan_id,
                 (card , loan) => new LoansPurchased()
                 {
@@ -51,7 +55,15 @@ namespace WebApplication1.Controllers
                     loan_type=loan.loan_type
                 }
                 ).ToList();
-            return loansPurchased;
+            var activeLoans = new List<LoansPurchased>();
+            for(int i = 0; i < loansPurchased.Count(); i++)
+            {
+                if(checkActive(loansPurchased[i].card_issue_date, loansPurchased[i].duration))
+                {
+                    activeLoans.Add(loansPurchased[i]);
+                }
+            }
+            return activeLoans;
         }
 
     }
