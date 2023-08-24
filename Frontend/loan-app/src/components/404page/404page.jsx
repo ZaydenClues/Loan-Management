@@ -17,7 +17,7 @@ const Page404 = () => {
     <>
     <div className={styles.pageContainer}>
         <img src='./assets/gif_404.gif' alt='404' className={styles.gif}/>
-        <Button variant="danger" onClick={redirect}>Go Back</Button>
+        <Button variant="danger" className={styles.button} onClick={redirect}>Go Back</Button>
     </div>
     </>
   )
