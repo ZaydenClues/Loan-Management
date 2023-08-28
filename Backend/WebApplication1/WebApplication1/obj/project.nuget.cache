@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MUeYgj2/rE+uj7gteFOHC2Vc/eEyVRt+1wlL/MqQjIOanqEEwTb5Q95bPp3d0270ZPpy0mI7P1Hq2cBPyfIMYA==",
+  "dgSpecHash": "+FLgXzlNsEUbWo4EFcpKxJzAYtBTqvUaMVN8iKUTc3G2GpegJTMQBf+MClglufghehf0fq/6hA6HEFLmrjP1tw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrator\\Documents\\Bootcamp_Project_Batch_10\\NewCOde\\LM\\Loan-Management\\Backend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
@@ -63,6 +63,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnet.webapi.cors\\5.2.9\\microsoft.aspnet.webapi.cors.5.2.9.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.21\\microsoft.aspnetcore.authentication.jwtbearer.6.0.21.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.build\\17.3.2\\microsoft.build.17.3.2.nupkg.sha512",

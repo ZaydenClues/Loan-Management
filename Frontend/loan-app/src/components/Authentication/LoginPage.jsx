@@ -62,7 +62,7 @@ const LoginPage = () => {
           if (res.success) {
             window.sessionStorage.setItem("user", JSON.stringify(res.data)); // Store in session storage
             console.log("login", res.data);
-            setUserData({ exists: true, user: res.data });
+            setUserData({ exists: true, user: res.data.employee });
             return true;
           } else {
             
@@ -75,10 +75,10 @@ const LoginPage = () => {
           else{
             toast.error("Invalid Username or Password");
             //redirect after 3 seconds
-            setTimeout(() => {
-              navigate("/register");
-            }
-            , 3000);
+            // setTimeout(() => {
+            //   navigate("/register");
+            // }
+            // , 3000);
           }            
         }
         );

@@ -2169,3 +2169,4 @@ C:\Users\Administrator\Documents\Bootcamp_Project_Batch_10\NewCOde\LM\Loan-Manag
 C:\Users\Administrator\Documents\Bootcamp_Project_Batch_10\NewCOde\LM\Loan-Management\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
 C:\Users\Administrator\Documents\Bootcamp_Project_Batch_10\NewCOde\LM\Loan-Management\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
 C:\Users\Administrator\Documents\Bootcamp_Project_Batch_10\NewCOde\LM\Loan-Management\Backend\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\Administrator\Documents\Bootcamp_Project_Batch_10\NewCOde\LM\Loan-Management\Backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

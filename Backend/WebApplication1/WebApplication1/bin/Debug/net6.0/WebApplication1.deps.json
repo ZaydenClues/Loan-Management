@@ -9,6 +9,7 @@
       "WebApplication1/1.0.0": {
         "dependencies": {
           "Microsoft.AspNet.WebApi.Cors": "5.2.9",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.21",
           "Microsoft.EntityFrameworkCore": "7.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.10",
@@ -659,6 +660,17 @@
           "lib/net45/System.Web.Http.Cors.dll": {
             "assemblyVersion": "5.2.9.0",
             "fileVersion": "5.2.61129.10"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.21": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.21.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "assemblyVersion": "6.0.21.0",
+            "fileVersion": "6.0.2123.36438"
           }
         }
       },
@@ -3158,6 +3170,13 @@
       "sha512": "sha512-G8gAuv1+m3yCxUD1Ujb3NTHsr3HlZopkNxJ4BsqOaxY1ryW43wR9PQxIzle1GciQrE5pcVzawEgiWcbxoIBpHg==",
       "path": "microsoft.aspnet.webapi.cors/5.2.9",
       "hashPath": "microsoft.aspnet.webapi.cors.5.2.9.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EZfFWxMTd2Su5kfhaL5gIhEGANVcBV89qQX4nu/akSQNutW4AjfEujniQJTn/PXUaqOhWnykyKmly4p66CzbRA==",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/6.0.21",
+      "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.6.0.21.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Razor.Language/6.0.0": {
       "type": "package",

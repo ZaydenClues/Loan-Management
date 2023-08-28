@@ -1,6 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
 using System.Security.Cryptography;
+using System.Text;
 using System.Web.Http.Results;
 using WebApplication1.Model;
 
@@ -9,9 +12,12 @@ namespace WebApplication1.Services.EmployeeServices
     public class EmployeeService : IEmployeeService
     {
         private readonly APIDbContext _context;
-        public EmployeeService(APIDbContext context)
+
+        private IConfiguration _config;
+        public EmployeeService(APIDbContext context, IConfiguration config)
         {
             _context = context;
+            _config = config;
         }
         public async Task<ActionResult<IEnumerable<Employee>>> GetEmployees()
         {
@@ -35,7 +41,29 @@ namespace WebApplication1.Services.EmployeeServices
                 throw new Exception("Password is incorrect.");
             }
 
-            return new OkObjectResult(employee);
+            var tokenString = GenerateJSONWebToken(request);
+
+            Console.WriteLine(_config["Jwt:Key"]);
+            var response = new { employee = employee, token = tokenString };
+
+
+            return new OkObjectResult(response);
+        }
+
+        private string GenerateJSONWebToken(EmployeeCreds request)
+        {
+            Console.WriteLine(_config["Jwt:Key"]);
+            var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
+            
+            var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
+
+            var token = new JwtSecurityToken(_config["Jwt:Issuer"],
+                _config["Jwt:Issuer"],
+                null,
+                expires: DateTime.Now.AddMinutes(120),
+                signingCredentials: credentials);
+
+            return new JwtSecurityTokenHandler().WriteToken(token);
         }
 
         private void CreatePasswordHash(string password, out byte[] passwordHash, out byte[] passwordSalt)
